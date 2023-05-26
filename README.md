@@ -44,7 +44,7 @@ npm install
 
 6. Replace 'ADMIN_ID' with the Telegram ID of the admin whose messages should be forwarded.
 
-7. Replace 'GROUP_ID' with the ID of th group which you want to forward the messages.
+7. Replace 'GROUP_ID' with the ID of the group which you want to forward the messages.
 
 8. Save the changes.
 
