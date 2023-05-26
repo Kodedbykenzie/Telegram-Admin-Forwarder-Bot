@@ -1,14 +1,22 @@
+
 {
-  "name": "new-folder",
+  "name": "telegram_admin_forwarder_bot",
   "version": "1.0.0",
-  "description": "",
-  "main": "index.js",
+  "description": "A telegram bot that forwards messages sent by an admin to a specified group",
+  "main": "bot.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "node bot.js"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "y"
+  },
+  "keywords": [
+    "telegram",
+    "bot"
+  ],
+  "author": "Mozia Precious Chibundu",
+  "license": "MIT",
   "dependencies": {
     "dotenv": "^16.0.3",
     "node-telegram-bot-api": "^0.61.0"
